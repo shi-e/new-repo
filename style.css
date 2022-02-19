@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Permanent Marker';
+    src: url(./fonts/PermanentMarker.ttf) format('truetype'), 
+         url(./fonts/PermanentMarker.woff) format('woff');
+  }
+  .header-title{
+    size: 40px;
+    background-color: antiquewhite;
+    color: blue;
+  }
